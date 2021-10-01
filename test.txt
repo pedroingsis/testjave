@@ -1,3 +1,5 @@
 Mi primer git
 
 Actualización rama1
+
+actuarzar rama desde la rama 2
